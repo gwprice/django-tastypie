@@ -1,4 +1,4 @@
-import mimeparse
+from tastypie.utils import mimeparse
 
 from tastypie.exceptions import BadRequest
 
